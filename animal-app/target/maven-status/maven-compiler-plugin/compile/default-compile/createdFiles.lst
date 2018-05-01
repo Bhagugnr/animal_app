@@ -1,0 +1,3 @@
+org\com\animalApp\config\AppConfig.class
+org\com\animalApp\controller\HelloWorldController.class
+org\com\animalApp\config\AppInitializer.class
